@@ -5,7 +5,7 @@ name: MyReader
 on:
   # 推送分支触发
   push:
-    branches: [ main ]
+    branches: [ master ]
   # 手动触发
   workflow_dispatch:
 
