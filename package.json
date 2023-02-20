@@ -1,0 +1,16 @@
+{
+  "name": "MyReader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xdsdao/MyReader.git",
+  "author": "xiongqijiang <xiongqijiang-dc@139.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+
+}
