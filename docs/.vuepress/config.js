@@ -49,7 +49,8 @@ module.exports = {
                 path: '/note/book/book_0001', // 默认激活的选项
                 collapsable: false, // 不折叠
                 children: [
-                    {title: "《JAVA核心面试知识整理》", path: "/note/book/book_0001"}
+                    {title: "《JAVA核心面试知识整理》", path: "/note/book/book_0001"},
+					{title: "《Java开发手册(黄山版)》", path: "/note/book/book_0002"}
                 ],
             }
         ]
