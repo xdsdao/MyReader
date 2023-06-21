@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     //base路径代表github仓库名称
-    base: "/",
+    base: "/MyReader/",
     title: 'MyReader',
     description: 'md文档在线阅读器',
     //主题参考https://vuepress-theme-reco.recoluan.com/views/1.x/installUse.html
