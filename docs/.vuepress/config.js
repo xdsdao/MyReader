@@ -50,7 +50,8 @@ module.exports = {
                 collapsable: false,  // 不折叠
                 children: [
                     {title: "《JAVA核心面试知识整理》", path: "/note/book/book_0001"},
-					{title: "《Java开发手册(黄山版)》", path: "/note/book/book_0002"}
+					{title: "《Java开发手册(黄山版)》", path: "/note/book/book_0002"},
+                    {title: "《22年大厂offer必备Java面试题》", path: "/note/book/book_0003"}
                 ],
             }
         ]
